@@ -1,0 +1,5 @@
+{
+  "name": "builder-fedora",
+  "sdk": "go",
+  "engineVersion": "v0.11.4"
+}
